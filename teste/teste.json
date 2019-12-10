@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "joao da silva",
+      "email": "joao@teste.com"
+    },
+    {
+      "id": 2,
+      "nome": "Maria da silva",
+      "email": "Maria@teste.com"
+    },
+    {
+      "id": 3,
+      "nome": "hiago da silva",
+      "email": "Maria@teste.com"
+    },
+    {
+      "id": 4,
+      "nome": "wellington",
+      "email": "2323333"
+     
+    }
+  ]
+}
